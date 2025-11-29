@@ -357,3 +357,5 @@ streamlit run dashboard_streamlit.py
 Treinar modelo:
 
 python ml_train.py
+
+## Link youtube https://youtu.be/a5JUQUJ5Zxs
