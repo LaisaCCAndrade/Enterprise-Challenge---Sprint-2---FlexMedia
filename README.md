@@ -361,3 +361,11 @@ python analysis.py            # 4. Gera relatórios estáticos
 
 4. Iniciar Dashboard:
 streamlit run dashboard_streamlit.py
+
+__________________________________________________________________________
+
+## 🎥 10. Vídeo de Demonstração
+
+Confira a apresentação técnica do projeto, onde demonstramos o pipeline de dados completo, desde a simulação dos sensores até o Dashboard em tempo real.
+
+▶️ **[Clique aqui para assistir ao vídeo no YouTube](https://youtu.be/a5JUQUJ5Zxs)**
