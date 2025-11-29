@@ -58,6 +58,7 @@ sequenceDiagram
     SQL->>ML: Carrega dados de duração
     ML->>ML: Treina modelo (Random Forest)
     SQL->>D: Fornece dados em tempo real
+```
 
 ## 🗄️ 5. Modelo de Dados (DER)
 
